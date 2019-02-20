@@ -53,7 +53,7 @@ Hosts that are providing a location to hold a codeHarbour event must check that 
 
 ### d. Speakers and Call for Papers
 Hosts and Partners are encouraged to assist codeHarbour organisers in finding and selecting speakers for codeHarbour talks.
-Talk submissions will be made via submitted issues on the codeHarbour [github organisation](https://github.com/codeharbour/codeharbour.github.io).
+
 #### i. Host Specific Speakers/Topics
 Should a host wish to have certain topics/speakers/presentations be ran at their hosting location, that host must contact codeHarbour organisers.
 codeHarbour will then discuss with other hosts to ensure this nobody has any objections.
