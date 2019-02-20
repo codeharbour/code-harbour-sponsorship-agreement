@@ -56,7 +56,7 @@ Hosts and Partners are encouraged to assist codeHarbour organisers in finding an
 
 #### i. Host Specific Speakers/Topics
 Should a host wish to have certain topics/speakers/presentations be ran at their hosting location, that host must contact codeHarbour organisers.
-codeHarbour will then discuss with other hosts to ensure this nobody has any objections.
+codeHarbour will then discuss with other hosts to ensure that nobody has any objections.
 #### ii. Host submitting talks intended for hosted events
 Any company sponsoring codeHarbour, or one of its events, can submit talks just like any other member.
 If the company is hosting and wish for their submitted talk to be run at their hosted event, codeHarbour will try to ensure this happens.
